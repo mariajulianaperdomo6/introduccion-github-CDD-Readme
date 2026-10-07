@@ -21,11 +21,11 @@ su comportamiento académico y apoyar la toma de decisiones basadas en datos.
 
 ***Problema a resolver***
 
-Las instituciones educativas y los propios estudiantes no siempre conocen qué hábitos de
-estudio tienen mayor impacto en el desempeño académico. Debido a esto, resulta necesario
-analizar información relacionada con asistencia, tiempo de estudio, horas de sueño y uso de
-redes sociales para identificar tendencias y comportamientos que permitan comprender mejor
-la realidad estudiantil.
+las instituciones educativas no identifican a tiempo a aquellas personas que necesitan un 
+mayor acompañamiento en su proceso de aprendizaje. En este sentido, el analizar los hábitos
+de estudio del estudiante junto a su desempeño previo permite identificar con mayor velocidad
+y eficiencia a los estudiantes que requieren ya sea tutorías o cualquier tipo de recurso 
+institucional que pueda apoyarlo para mejorar su desempeño académico.
 
 ***Objetivos***
 
@@ -43,13 +43,9 @@ el rendimiento académico.
   
 <summary> Objetivos específicos </summary>
 
-- Diseñar una encuesta para recopilar información relevante de los estudiantes.
-- Crear una base de datos estructurada con la información obtenida.
-- Definir claves primarias y relaciones entre las tablas del proyecto.
-- Construir un modelo relacional para gestionar los datos.
-- Utilizar Power Pivot para realizar cálculos y análisis de la información.
-- Elaborar un tablero de visualización con indicadores y gráficos interactivos.
-- Interpretar los resultados obtenidos y presentar conclusiones basadas en los datos.
+- Identificar los hábitos de estudio con mayor impacto en el desempeño académico de los estudiantes
+- Identificar los estudiantes que necesitan herramientas para reforzar sus habilidades y mejorar su desempeño académico 
+- Agilizar los procesos de apoyo a estudiantes con malos hábitos de estudio
   
 </details>
 
