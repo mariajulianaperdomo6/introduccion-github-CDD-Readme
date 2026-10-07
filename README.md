@@ -52,20 +52,16 @@ el rendimiento académico.
 
 ***Metodología***
 
-|Paso|Descripción|
-|--------------|--------------------------------------------------------|
-|Paso 1|Recolección de datos:......................................|
-|Paso 2|Creación de la base de datos:..............................|
-|Paso 3|Diseño del modelo relacional...............................|
-|Paso 4|Uso de Power Pivot:.........................................|
-|Paso 5|Análisis de la información:.................................|
-|Paso 6|Tablero de visualización:....................................|
-|Paso 7|Interpretación de resultados:................................|
 
 ***Rol del científico de datos***
 
-En este proyecto, el científico de datos específicamente es encargado de:
-escribir aquí
+En este proyecto, el científico de datos específicamente es encargado de recopilar, organizar, transformar y analizar la
+información obtenida. Además, diseñará la base de datos, construirá el modelo relacional,
+definirá las claves necesarias para garantizar la calidad de los datos, utilizará herramientas
+como Power Pivot para realizar análisis y desarrollará un tablero de visualización que facilite
+la interpretación de los resultados. Su función principal será convertir los datos en
+información útil que permita comprender mejor los hábitos de estudio de los estudiantes y
+apoyar la toma de decisiones.
 
 Andrew Ng fue nuestro científico de datos escogido cuyos proyectos explicados a continuación en su profesión de científico de datos tienen una propuesta similar a la de nuestro proyecto.
 
