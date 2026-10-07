@@ -1,2 +1,7 @@
-# introducci-n-github-CDD-Readme
-El repositorio contiene características afiliadas a proyectos liderados y ejecutados por Andrew Ng
+<div align="center">
+
+# Andrew Ng
+## Sus proyectos liderados y ejecutados como Científico de Datos
+Emilia Penagos Gallo, Maria Juliana Perdomo,Sebastían Romero Sierra, Juan Sebastián Chacón Ochoa
+
+</div>
