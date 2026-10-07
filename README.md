@@ -8,7 +8,10 @@ Emilia Penagos Gallo, Maria Juliana Perdomo,Sebastían Romero Sierra, Juan Sebas
 </div>
 
 ## Descripción del proyecto
-aquí se escribe la descripción del proyecto 
+
+Este proyecto busca desarrollar un modelo de Ciencia de Datos capaz de predecir el rendimiento académico de los estudiantes mediante el análisis de variables como asistencia a clases, horas de estudio, participación en actividades académicas y calificaciones anteriores.
+
+La finalidad es identificar de manera temprana a los estudiantes que podrían presentar dificultades académicas y generar recomendaciones que contribuyan a mejorar su desempeño.
 
 **Propósito**
 
@@ -51,6 +54,16 @@ el rendimiento académico.
 </details>
 
 ***Metodología***
+
+| Paso | Descripción|
+|---------------|-----------------------------|
+| Paso 1 | Recolección de datos: encuesta a estudiantes universitarios para obtener información sobre hábitos de estudio, asistencia, horas de sueño, tiempo en redes sociales y rendimiento académico |
+| Paso 2 | Creación de la base de datos: Los datos recopilados se organizarán en tablas |
+| Paso 3 | Construcción del modelo relacional: Se establecerán relaciones entre las diferentes tablas mediante las keys vistas en clase para garantizar una correcta organización de la información |
+| Paso 4 | Uso de Power Pivot: Se implementará Power Pivot para administrar el modelo de datos y obtener indicadores relevantes para el análisis |
+| Paso 5 | Transformación y análisis de datos: Se procesará la información para identificar tendencias, frecuencias, porcentajes y otras métricas de interés |
+| Paso 6 | Tablero de Visualización: Construir un dashboard con gráficos, tablas dinámicas e indicadores que permitan visualizar los resultados de forma clara e interactiva y su relación entre sí |
+| Paso 7 | Interpretación de resultados: conclusiones a partir de evidencia |
 
 
 ***Rol del científico de datos***
