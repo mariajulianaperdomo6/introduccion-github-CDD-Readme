@@ -70,7 +70,7 @@ definirá las claves necesarias para garantizar la calidad de los datos, utiliza
 como Power Pivot para realizar análisis y desarrollará un tablero de visualización que facilite
 la interpretación de los resultados. Su función principal será convertir los datos en
 información útil que permita comprender mejor los hábitos de estudio de los estudiantes y
-apoyar la toma de decisiones.
+apoyar la toma de decisiones para mejorar el desempeño académico de los mismos.
 
 Andrew Ng fue nuestro científico de datos escogido cuyos proyectos explicados a continuación en su profesión de científico de datos tienen una propuesta similar a la de nuestro proyecto.
 
@@ -195,7 +195,7 @@ Emilia Penagos Gallo, Maria Juliana Perdomo,Sebastían Romero Sierra, Juan Sebas
 
 </details>
 
-Este proyecto comparte el mismo enfoque de varios proyectos liderados por Andrew Ng, como Google Brain, donde se utilizaban grandes volúmenes de datos para identificar patrones y generar conocimiento útil, y DeepLearning.AI, iniciativa en la que promueve el uso de datos para resolver problemas reales. Con base en lo anterior, este proyecto planteado recopila, organiza y analiza datos sobre hábitos de estudio para identificar tendencias y apoyar la toma de decisiones en el ámbito educativo. Aunque su alcance es más pequeño y no utiliza inteligencia artificial, sigue el mismo principio fundamental aplicado por Andrew Ng en muchos de sus proyectos: transformar datos en información valiosa
+Este proyecto comparte el mismo enfoque de varios proyectos liderados por Andrew Ng, como Google Brain, donde se utilizaban grandes volúmenes de datos para identificar patrones y generar conocimiento útil, y DeepLearning.AI, iniciativa en la que promueve el uso de datos para resolver problemas reales. Con base en lo anterior, este proyecto planteado recopila, organiza y analiza datos sobre hábitos de estudio para identificar tendencias y apoyar la toma de decisiones en el ámbito educativo para mejorar el desempeño de los estudiantes. Aunque su alcance es más pequeño y no utiliza inteligencia artificial, sigue el mismo principio fundamental aplicado por Andrew Ng en muchos de sus proyectos: transformar datos en información valiosa
 
 
 
