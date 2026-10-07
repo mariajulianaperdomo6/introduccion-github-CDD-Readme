@@ -5,3 +5,9 @@
 Emilia Penagos Gallo, Maria Juliana Perdomo,Sebastían Romero Sierra, Juan Sebastián Chacón Ochoa
 
 </div>
+
+<div align="center">
+  
+andrew_ngg.jpg
+
+</div>
