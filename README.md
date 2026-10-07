@@ -12,11 +12,17 @@ aquí se escribe la descripción del proyecto
 
 **Propósito**
 
-Escribir aquí el propósito
+El propósito de este proyecto es recopilar, organizar y analizar datos sobre los hábitos de
+estudio de estudiantes universitarios para obtener información que permita comprender mejor
+su comportamiento académico y apoyar la toma de decisiones basadas en datos.
 
 ***Problema a resolver***
 
-Escribir aquí el problema a resolver
+Las instituciones educativas y los propios estudiantes no siempre conocen qué hábitos de
+estudio tienen mayor impacto en el desempeño académico. Debido a esto, resulta necesario
+analizar información relacionada con asistencia, tiempo de estudio, horas de sueño y uso de
+redes sociales para identificar tendencias y comportamientos que permitan comprender mejor
+la realidad estudiantil.
 
 ***Objetivos***
 
@@ -24,17 +30,23 @@ Escribir aquí el problema a resolver
   
 <summary> Objetivo general </summary>
 
-Escribir aquí el objetivo general
-  
+Analizar los hábitos de estudio de estudiantes universitarios mediante la recopilación,
+organización y visualización de datos para identificar patrones y tendencias relacionadas con
+el rendimiento académico.
+
 </details>
 
 <details>
   
 <summary> Objetivos específicos </summary>
 
-1. Escribir aquí
-2. los objetivos
-3. específicos
+- Diseñar una encuesta para recopilar información relevante de los estudiantes.
+- Crear una base de datos estructurada con la información obtenida.
+- Definir claves primarias y relaciones entre las tablas del proyecto.
+- Construir un modelo relacional para gestionar los datos.
+- Utilizar Power Pivot para realizar cálculos y análisis de la información.
+- Elaborar un tablero de visualización con indicadores y gráficos interactivos.
+- Interpretar los resultados obtenidos y presentar conclusiones basadas en los datos.
   
 </details>
 
