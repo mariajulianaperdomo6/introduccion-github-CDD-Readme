@@ -197,6 +197,12 @@ Emilia Penagos Gallo, Maria Juliana Perdomo,Sebastían Romero Sierra, Juan Sebas
 
 Este proyecto comparte el mismo enfoque de varios proyectos liderados por Andrew Ng, como Google Brain, donde se utilizaban grandes volúmenes de datos para identificar patrones y generar conocimiento útil, y DeepLearning.AI, iniciativa en la que promueve el uso de datos para resolver problemas reales. Con base en lo anterior, este proyecto planteado recopila, organiza y analiza datos sobre hábitos de estudio para identificar tendencias y apoyar la toma de decisiones en el ámbito educativo para mejorar el desempeño de los estudiantes. Aunque su alcance es más pequeño y no utiliza inteligencia artificial, sigue el mismo principio fundamental aplicado por Andrew Ng en muchos de sus proyectos: transformar datos en información valiosa
 
+## Conclusión
+
+A partir del análisis de los hábitos de estudio, el proyecto busca demostrar cómo los datos pueden utilizarse para comprender mejor el rendimiento académico de los estudiantes. La información obtenida permitirá identificar patrones relacionados con variables como la asistencia, las horas de estudio y el desempeño académico.
+
+De esta manera, los resultados pueden servir como apoyo para tomar decisiones y proponer estrategias de acompañamiento académico. Aunque el proyecto tiene un alcance limitado frente a iniciativas como las desarrolladas por Andrew Ng, aplica el mismo principio de transformar datos en información útil para resolver un problema concreto.
+
 
 
 
